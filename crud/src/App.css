@@ -1,0 +1,27 @@
+#del{
+  background-color: red;
+
+  font-weight: bold;
+}
+
+#edit{
+  background-color: rgb(8, 222, 8);
+  font-weight: bold;
+}
+
+#maindiv{
+  width: 70%;
+ justify-items: center;
+ text-align: center;
+ margin-top: 5%;
+ margin-left: 15%;
+}
+
+#form{
+  margin-top: 10%;
+  margin-left: 35%;
+  display: flex;
+  flex-direction: column;
+  width: 15%;
+ font-weight: bold;
+}
